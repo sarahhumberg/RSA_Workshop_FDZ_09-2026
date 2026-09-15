@@ -7,4 +7,5 @@ Um die Materialien herunterzuladen, klicken Sie oben auf das grüne Feld "Code" 
 Alternativ können Sie einzelne Dateien herunterladen durch Rechtsklick --> "Ziel speichern unter".
 
 Viele Grüße und bis zum Workshop
+
 Sarah Humberg
